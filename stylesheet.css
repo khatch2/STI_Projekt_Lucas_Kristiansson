@@ -1,1 +1,21 @@
 /* First css */
+@charset "UTF-8";
+body {
+    margin:auto; /* för att centerera */
+    width: 860px;
+    background-color: lightyellow;
+}
+section, header, footer {
+    outline: 1px solid red;
+    color: rebeccapurple;
+}
+.startpage > header > h1 {
+    color:wheat;
+}
+
+
+ellipse {
+    /* fill:brown; */
+    fill:rgba(10, 10, 10, 0.5);
+}
+
